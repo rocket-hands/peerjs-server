@@ -29,6 +29,6 @@
   },
   "scripts": {
     "test": "mocha test",
-    "start": "bin/peerjs --port ${PORT:=9000} --allow-discovery=true"
+    "start": "bin/peerjs --port ${PORT:=9000} --allow_discovery=true"
   }
 }
